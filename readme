@@ -1,1 +1,6 @@
-from examples aws
+install app with docker compose installed with ansible on remote server
+
+idea`s from
+
+https://medium.com/@pierangelo1982/install-docker-with-ansible-d078ad7b0a54
+https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/
